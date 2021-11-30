@@ -1,0 +1,122 @@
+﻿body{
+    margin: 0px;
+}
+.container {
+    margin: 0px;
+}
+.nav-item a {
+    text-decoration: none;
+    color: #555 !important;
+    font-weight: 500;
+}
+.nav-item a:hover {
+    color: #21f3e9 !important;
+}
+.navbar {
+    background: white;
+    padding: 0.1rem 2rem;
+    min-height: 15vh;
+}
+.navbar .navbar-brand 
+{
+    padding: 1rem 0;
+    display: block;
+    text-decoration: none;
+}
+.navbar-brand 
+{
+    color: #21f3e9 !important;
+    font-size:2.5rem;
+}
+.navbar-toggler
+{
+    border:none;
+}
+.navbar-toggler span
+{
+    display: block;
+    width: 22px;
+    height: 2px;
+    border: 1px;
+    background: #21f3e9 !important;
+}
+.navbar-toggler span + span
+{
+    margin-top: 6px;
+}
+.navbar-toggler span + span + span
+{
+    margin-top: 6px;
+}
+.navbar-expand-lg .navbar-nav .nav-link 
+{
+    padding: 2rem 1.2rem;
+    font-size: 1.4rem;
+    position: relative;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover 
+{
+    padding: 1.925rem 1.2rem;
+    border-top: 0.15rem solid #21f3e9;
+}
+.navbar-expand-lg .navbar-nav .nav-link:active 
+{
+    padding: 1.925rem 1.2rem;
+    border-top: 0.15rem solid #21f3e9;
+    color: #21f3e9;
+}
+.newarrival {
+    background: #c24b23;
+    width: 40px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.col-md-7 h2
+{
+    color: #555;
+}
+.stars
+{
+    height: 15px;
+}
+.price {
+    color: #c24b23;
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+input
+{
+    border: 1px solid #ccc;
+    font-weight: bold;
+    height: 33px;
+    text-align: center;
+    width: 30px;
+}
+.cart {
+    background: #c24b23;
+    color: #FFFFFF;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.specList
+{
+    color: #555;
+    font-size: 20px;
+    padding-bottom: 5%;
+}
+.specSpacing
+{
+    padding-top:10px;
+}
+.diagram
+{
+    width: 500px;
+}
+.space-below{
+    padding-top: 5%;
+}
+.logo{
+    height:80px;
+}

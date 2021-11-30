@@ -1,0 +1,181 @@
+﻿body {
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x:hidden;
+}
+.container-fixed{
+    margin: 0px;
+}
+.nav-item a {
+    text-decoration: none;
+    color: #555 !important;
+    font-weight: 500;
+}
+
+.nav-item a:hover {
+    color: #21f3e9 !important;
+}
+
+.navbar {
+    background: white;
+    padding: 0.1rem 2rem;
+    min-height: 15vh;
+}
+
+.navbar .navbar-brand {
+    padding: 1rem 0;
+    display: block;
+    text-decoration: none;
+}
+
+.navbar-brand {
+    color: #21f3e9 !important;
+    font-size: 2.5rem;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border: 1px;
+    background: #21f3e9 !important;
+}
+
+.navbar-toggler span + span {
+    margin-top: 6px;
+}
+
+.navbar-toggler span + span + span {
+    margin-top: 6px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 2rem 1.2rem;
+    font-size: 1.4rem;
+    position: relative;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+    padding: 1.925rem 1.2rem;
+    border-top: 0.15rem solid #21f3e9;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:active {
+    padding: 1.925rem 1.2rem;
+    border-top: 0.15rem solid #21f3e9;
+    color: #21f3e9;
+}
+
+.banner {
+    position: relative
+}
+
+.banner img {
+    width: 100%
+}
+
+.banner .container {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    text-align: left;
+    transform: translateY(-50%)
+}
+
+.main-section {
+    position: relative;
+    background: url("././Images/TAL_Background.png");
+    height: 500px;
+    background-size: cover;
+}
+
+.main-section .section-part {
+    color: #000;
+    position: absolute;
+    top: 20%;
+    transform: translateY(-50%);
+}
+.feature-section{
+    transform: translateY(5%);
+}
+.move-down{
+    transform: translateY(600%);
+}
+.attention-getter {
+    color: #fff;
+    background-color: #34b7eb;
+    padding: 0% 1%;
+}
+
+.shop {
+    background: #c24b23;
+    color: #FFFFFF;
+}
+.shop-x {
+    background: #c24b23;
+    color: #FFFFFF;
+    
+}
+.image-list{
+    transform: translateY(5%);
+
+}
+.feat-image {
+    width: 100%;
+    height: auto;
+    display: inline-block !important;
+    max-width:100%;
+}
+
+.feature-list{
+    color:#000;
+    padding-top: 15px;
+}
+.feat-description{
+    padding-top: 5%;
+    font-size: 125%;
+    color:#cccccc;
+}
+.guarantee-section {
+    transform: translateY(35%);
+    padding-top: 1%;
+}
+.section-colorer-blue {
+    background-color: #21f3e9;
+    padding-bottom: 5%;
+    background-size: cover;
+}
+.section-colorer-white {
+    background-color: #ffffff;
+    padding-bottom: 5%;
+    background-size: cover;
+}
+.fixed-text{
+    font-size: 125%;
+    padding-top: 2.5%;
+}
+.head-move{
+    padding-top: 5%;
+}
+.guarantee-text{
+    font-size: 125%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+.demo-section {
+    transform: translateY(30%);
+}
+.image-list-down{
+    padding-top: 3%;
+}
+.logo {
+    height: 80px;
+}
+.sleek-move-down{
+    transform: translateY(-20%);
+}

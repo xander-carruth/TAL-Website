@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pages", "Pages", "{0A08D35C-6A0E-4C2F-92C6-D27CF8901949}"
+	ProjectSection(SolutionItems) = preProject
+		contactinfo.html = contactinfo.html
+		index.html = index.html
+		product.html = product.html
+		StyleSheet1.css = StyleSheet1.css
+		StyleSheet2.css = StyleSheet2.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{8BC84B78-4318-4BEC-8CC4-EF4B38F08E85}"
+	ProjectSection(SolutionItems) = preProject
+		Images\attach.png = Images\attach.png
+		Images\fingerprint.png = Images\fingerprint.png
+		front.png = front.png
+		full_fridge.png = full_fridge.png
+		Images\keypad.png = Images\keypad.png
+		Images\muscle.png = Images\muscle.png
+		Images\other_side.png = Images\other_side.png
+		side.png = side.png
+		Images\side_trans.png = Images\side_trans.png
+		Images\stars.png = Images\stars.png
+		Images\TAL_Background.png = Images\TAL_Background.png
+		Images\TAL_Logo.png = Images\TAL_Logo.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8BC84B78-4318-4BEC-8CC4-EF4B38F08E85} = {0A08D35C-6A0E-4C2F-92C6-D27CF8901949}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DA685A3-95A8-48CC-94EB-853FD3CED195}
+	EndGlobalSection
+EndGlobal
